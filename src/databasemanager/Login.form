@@ -40,12 +40,12 @@
                       </Group>
                       <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" max="-2" attributes="0">
-                          <Group type="102" alignment="0" attributes="0">
-                              <Component id="TEST_BTN" min="-2" pref="139" max="-2" attributes="0"/>
-                              <EmptySpace pref="33" max="32767" attributes="0"/>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="TEST_BTN" max="32767" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
                               <Component id="CONNECT_BTN" min="-2" pref="139" max="-2" attributes="0"/>
                           </Group>
-                          <Component id="HOST_TEXT" alignment="0" max="32767" attributes="0"/>
+                          <Component id="HOST_TEXT" alignment="0" pref="311" max="32767" attributes="0"/>
                           <Component id="PORT_TEXT" alignment="0" max="32767" attributes="0"/>
                           <Component id="USERNAME_TEXT" alignment="0" max="32767" attributes="0"/>
                           <Component id="PASSWORD_TEXT" alignment="0" max="32767" attributes="0"/>

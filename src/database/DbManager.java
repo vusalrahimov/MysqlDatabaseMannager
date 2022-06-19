@@ -5,6 +5,7 @@
  */
 package database;
 
+import java.awt.Frame;
 import java.io.FileReader;
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -12,6 +13,7 @@ import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.sql.DataSource;
+import javax.swing.JOptionPane;
 
 /**
  *
